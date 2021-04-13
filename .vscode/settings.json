@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/edwardrees/opt/miniconda3/envs/game_env/bin/python",
+    "python.linting.pylintArgs": [
+        "--unsafe-load-any-extension=y"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
